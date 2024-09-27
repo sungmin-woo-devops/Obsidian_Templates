@@ -1,4 +1,12 @@
-### Obsidian Templates 
+### Templates 
+이 리포지토리는 업무 혹은 학습에 필요한 모든 종류의 템플릿 저장 아카이브입니다.
+
+### 구조
+- Obsidian
+- Notion
+- PPT
+- Words
+- Excel
 
 #### tag 속성 값 정리
 - title
